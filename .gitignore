@@ -4,13 +4,16 @@
 /node_modules
 /.pnp
 .pnp.js
-
+.env
 # testing
 /coverage
 
 # production
 /build
-.gitignore
+
+
+
+.gitignore # Ignore the hand that feeds!
 .env
 # misc
 .DS_Store
